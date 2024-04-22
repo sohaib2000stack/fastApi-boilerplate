@@ -1,0 +1,9 @@
+{
+    "APP_TITLE": "FastAPI Boilerplate Application",
+    "APP_VERSION": "1.0",
+    "DEV_CONTACT": {
+        "email": "waqar13ify@gmail.com"
+    },
+    "APP_DESCRIPTION": "This is our Boilerplate so we can speed up our project initialization.",
+    "DOCS_URL": "/docs"
+}
